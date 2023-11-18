@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Stylis-DPL",
+    "slug": "Stylis-DPL",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Stylis-DPL"
+}
